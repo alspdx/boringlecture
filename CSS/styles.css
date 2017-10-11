@@ -1,11 +1,8 @@
-h2.intro {
+.intro {
   font-family: sans-serif;
-}
-
-p.intro {
   font-style: italic;
 }
 
-img.intro {
+.introimg{
   border-radius: 100px;
 }
